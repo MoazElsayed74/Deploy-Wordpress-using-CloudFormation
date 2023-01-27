@@ -34,7 +34,9 @@ The template for deploying Wordpress using CloudFormation typically includes the
 #### Cleanup
 
 To delete the stack and all associated resources
+
 <img src="images/28.png">
+
 <img src="images/29.png">
 
 
