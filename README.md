@@ -14,30 +14,30 @@ AWS networking basics
 
 2- watched your CloudFormation stack deploy and confirmed that WordPress was deployed on the EC2 instance.
 
-<img src="images/23333.png">
+<img src="images/23333.PNG">
 
-<img src="images/24.png">
+<img src="images/24.PNG">
 
 <img src="images/11.png">
 
 3- review the resources managed by the stack:
 
-<img src="images/26.png">
+<img src="images/26.PNG">
 
 The template for deploying Wordpress using CloudFormation typically includes the following resources:
 1-An Amazon Elastic Compute Cloud (EC2) instance, which will serve as the web server for the Wordpress site.
 2-An Amazon Relational Database Service (RDS) instance, which will store the Wordpress site's data.
 3-An Amazon Elastic Block Store (EBS) volume, which will store the Wordpress files.
 
-<img src="images/27.png">
+<img src="images/27.PNG">
 
 #### Cleanup
 
 To delete the stack and all associated resources
 
-<img src="images/28.png">
+<img src="images/28.PNG">
 
-<img src="images/29.png">
+<img src="images/29.PNG">
 
 
 #### Conclusion
