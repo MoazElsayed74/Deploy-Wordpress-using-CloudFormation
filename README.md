@@ -9,24 +9,33 @@ An AWS account
 AWS networking basics
 ### Deployment Steps
 1- start with cloudformationtemplet
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\1.png)
+
+<img src="images/1.png">
+
 2- watched your CloudFormation stack deploy and confirmed that WordPress was deployed on the EC2 instance.
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\23333.PNG)
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\24.PNG)
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\11.png)
+
+<img src="images/23333.png">
+
+<img src="images/24.png">
+
+<img src="images/11.png">
+
 3- review the resources managed by the stack:
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\26.PNG)
+
+<img src="images/26.png">
+
 The template for deploying Wordpress using CloudFormation typically includes the following resources:
 1-An Amazon Elastic Compute Cloud (EC2) instance, which will serve as the web server for the Wordpress site.
 2-An Amazon Relational Database Service (RDS) instance, which will store the Wordpress site's data.
 3-An Amazon Elastic Block Store (EBS) volume, which will store the Wordpress files.
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\27.PNG)
+
+<img src="images/27.png">
 
 #### Cleanup
 
 To delete the stack and all associated resources
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\28.PNG)
-![](F:\Mooaz\Courses\MY GIT HUB\Deploy Wordpress using CloudFormation\Deploy-Wordpress-using-CloudFormation\29.PNG)
+<img src="images/28.png">
+<img src="images/29.png">
 
 
 #### Conclusion
